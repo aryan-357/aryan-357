@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skunktank69&" alt="skunktank69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-357&" alt="aryan-357" /></p>
 <!-- **aryan-357/aryan-357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
