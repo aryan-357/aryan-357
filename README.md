@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-357&" alt="aryan-357" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-357&" alt="aryan-357" /></p>
 <!-- **aryan-357/aryan-357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --> -->
 
 <a href="https://youtube.com/playlist?list=PLXM2Lwlzw1ChJ-ji8_QE9czOLb7jYyZnH&si=niw6MwC2dU4QBD2d">My Music Playlist</a>
